@@ -2,7 +2,8 @@
 This is a test repository
 
 
-# Basic Features of C
+
+### Basic Features of C
 
 1. Introducing C
 2. C Fundamentals
@@ -15,7 +16,7 @@ This is a test repository
 9. Functions
 10. Program Organization
 
-# Advanced Features of C
+### Advanced Features of C
 
 1. Pointers
 2. Pointers and Arrays
@@ -28,7 +29,7 @@ This is a test repository
 9. Program Design
 10. Low-Level Programming
 
-# The Standard C Library
+## The Standard C Library
 
 1. The Standard Library
 2. Input/Output
@@ -38,7 +39,7 @@ This is a test repository
 6. Miscellaneous Library Functions
 7. Additional C99 Support for Mathematics
 
-# Reference
+### Reference
 
 A. C Operators
 
